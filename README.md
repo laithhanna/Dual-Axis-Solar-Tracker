@@ -15,3 +15,6 @@ This was a brief summary on the hardware and the software used in this project. 
 
 Parts needed: SG90 servos (2), LCD-016M002B (1), Arduino Uno (1), Photo Resistors (4), Solar Panel P105 (1), Push Buttons (6).
 
+All the pins and connections are addressed in the code, so here I will put the wiring diagram:
+
+
